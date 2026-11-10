@@ -191,7 +191,7 @@
         <div class="stat-card">
 
             <div class="stat-top">
-                <span class="stat-icon">☕</span>
+                <span class="stat-icon"></span>
                 <span class="stat-title">Total Menu</span>
             </div>
 
@@ -206,7 +206,7 @@
         <div class="stat-card">
 
             <div class="stat-top">
-                <span class="stat-icon">📦</span>
+                <span class="stat-icon"></span>
                 <span class="stat-title">Total Bahan Baku</span>
             </div>
 
@@ -221,7 +221,7 @@
         <div class="stat-card">
 
             <div class="stat-top">
-                <span class="stat-icon">⚠️</span>
+                <span class="stat-icon"></span>
                 <span class="stat-title">Stok Menipis</span>
             </div>
 
@@ -394,7 +394,7 @@
 
     <!-- INFORMATION -->
     <div class="analytics-note">
-        <span>💡</span>
+        <span></span>
 
         <p>
             Sales analytics helps you monitor

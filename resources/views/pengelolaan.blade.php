@@ -22,7 +22,7 @@
         </div>
 
         <div class="management-brand">
-            ☕ NgopiDawg Coffee House
+             NgopiDawg Coffee House
         </div>
 
     </div>
@@ -33,7 +33,7 @@
 
         <div class="summary-card">
 
-            <div class="summary-icon">☕</div>
+            <div class="summary-icon"></div>
 
             <div>
                 <p>Total Menu</p>
@@ -45,7 +45,7 @@
 
         <div class="summary-card">
 
-            <div class="summary-icon">📦</div>
+            <div class="summary-icon"></div>
 
             <div>
                 <p>Total Bahan Baku</p>
@@ -57,7 +57,7 @@
 
         <div class="summary-card">
 
-            <div class="summary-icon">⚠️</div>
+            <div class="summary-icon"></div>
 
             <div>
                 <p>Stok Perlu Perhatian</p>

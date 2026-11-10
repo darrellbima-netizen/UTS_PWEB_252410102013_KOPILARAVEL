@@ -163,7 +163,7 @@
             <div class="profile-about">
 
                 <div class="about-icon">
-                    ☕
+
                 </div>
 
                 <div>
@@ -185,7 +185,7 @@
         <div class="profile-card-footer">
 
             <span>
-                ☕ NgopiDawg Management System
+                NgopiDawg Management System
             </span>
 
             <span>
